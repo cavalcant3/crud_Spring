@@ -39,7 +39,7 @@ Para dúvidas: jmatheusoc269@gmail.com
   
 ## Screenshots
 
-//
+![tela1.png](/imgs/tela1.png)
 ## Run Locally
 
 Clone the project

@@ -16,7 +16,7 @@ Apenas para rever conveitos de java e aprender um pouco mais com o ambiente spri
 Spring web, Dev tools, H2 e JPA.
 ## O que foi feito?
 
-Foi feito uma aplicação usando os packages: H2 para armazenamento em localstorage, spring web e devtools
+Foi feito uma aplicação usando os packages: H2 para armazenamento em localstorage, spring web,devtools e JPA
 
   
 ## Lições aprendidas

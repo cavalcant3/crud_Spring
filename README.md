@@ -40,6 +40,9 @@ Para dúvidas: jmatheusoc269@gmail.com
 ## Screenshots
 
 ![tela1.png](/imgs/tela1.png)
+![tela2.png](/imgs/tela2.png)
+![tela3.png](/imgs/tela3.png)
+![tela4.png](/imgs/tela4.png)
 ## Run Locally
 
 Clone the project

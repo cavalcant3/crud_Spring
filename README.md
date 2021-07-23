@@ -1,7 +1,7 @@
 
 # CRUD EM SPRING BOOT
 
-Apenas para rever conveitos de java e aprender um pouco mais com o ambiente spring
+Apenas para rever conveitos de java e aprender um pouco mais com o ambiente spring.
 
 
 ## Authors

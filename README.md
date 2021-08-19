@@ -29,7 +29,7 @@ Muito interessante saber como o spring funciona e como agiliza o processo de des
     
 ## Tech Stack
 
-**Server:** Java
+**Server:** Java.
 
   
 ## Support
